@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1465817417392328868/1500544933030002912/images.jpg?ex=69f8d2de&is=69f7815e&hm=1b2cc2f215499fd64a5eb2fa9a22d82525fd1786eed3d0280fc050b377c45487&=&format=webp" alt="Profile Picture" width="298" height="169" style="border-radius: 50%; border: 5px solid #F78300;">
+  <img src="https://media.discordapp.net/attachments/1465817417392328868/1500544933030002912/images.jpg?ex=69f8d2de&is=69f7815e&hm=1b2cc2f215499fd64a5eb2fa9a22d82525fd1786eed3d0280fc050b377c45487&=[...]
   
   # 👋 hii, im **pxdritz**!! 🚀
   
@@ -26,17 +26,23 @@
   ### 🔗 contacts
   | plataform | link |
   |----------|------|
-  | **YouTube** | [🎥 @pxdritz1](https://youtube.com/@ImSlib/) |
+  | **YouTube** | [🎥 @pxdritz1](https://youtube.com/@pxdritz1/) |
   | **Website** | [🌐 edonme.dev](https://edonme.dev/) |
   | **Modrinth** | [📦 _pxdritz](https://modrinth.com/user/pxdritz) |
-  | **Discord** | [💬 Server](dc.edonme.dev) |
+  | **Discord** | [💬 Server](https://discord.gg/mJf5ugvyxQ) |
   
   ---
   
   ### 🏆 achievements & badges
-  <img src="https://img.shields.io/badge/Minecraft-Expert-62B643?style=for-the-badge&logo=minecraft&logoColor=white">
-  <img src="https://img.shields.io/badge/YouTube-Creator-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://modrinth.com/user/pxdritz">
+    <img src="https://img.shields.io/badge/Minecraft-Expert-62B643?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Expert">
+  </a>
+  <a href="https://youtube.com/@pxdritz1">
+    <img src="https://img.shields.io/badge/YouTube-Creator-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Creator">
+  </a>
+  <a href="https://discord.gg/mJf5ugvyxQ">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community">
+  </a>
   
   ---
   
