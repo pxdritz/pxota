@@ -1,4 +1,4 @@
-![smiling with fries](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=0500&color=b80b11&multiline=true&width=435&lines=pxdritz)
+![smiling with fries](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=0500&color=2750c2&multiline=true&width=435&lines=pxdritz)
 
 ---
 
