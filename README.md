@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1465817417392328868/1500544933030002912/images.jpg?ex=69f8d2de&is=69f7815e&hm=1b2cc2f215499fd64a5eb2fa9a22d82525fd1786eed3d0280fc050b377c45487&=[...]
+  <img src="https://media.discordapp.net/attachments/1403400399855030412/1500548690753093693/jolyne.jpg?ex=69f8d65e&is=69f784de&hm=0aa1666798eb1bee246190f3f089032a489f0258b3c0ca2222e8a0c1db218ce7&=&format=webp" alt="jolyne">
   
   # 👋 hii, im **pxdritz**!! 🚀
   
